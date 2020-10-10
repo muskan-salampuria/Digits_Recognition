@@ -1,19 +1,19 @@
 # Hand Written Digits Recognition
 
-![Category](category.jpg)
+![Category](digits.png)
 
 
 ## Problem Statement:
-Create the model that can classify the different species of the Iris flower.
+Create the model that can identify the hand written digits.
 
 ## Problem solving:
-- create the dataset.
+- Create the dataset
 - Build the model
 - Train the model
-- Make predictions.
+- Make predictions
 
-## Iris Flower:
-Iris is the family in the flower which contains the several species such as the iris.setosa,iris.versicolor,iris.virginica,etc.
+## Digits:
+Digits can be 0,1,2,3,4,5,6,7,8,9.
 
 ## Solutions by Different Algorithms
  - SVM
